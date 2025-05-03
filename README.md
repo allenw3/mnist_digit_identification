@@ -1,2 +1,9 @@
-# mnist_digit_identification
-TensorFlow/Keras Neural Network and scikit-learn logistic regression model - handwritten digits
+# MNIST Handwritten Digits Identification
+TensorFlow/Keras neural network and scikit-learn logistic regression model!
+For identifying handwritten digits!
+
+## Contents
+'tensorflow_complete': Neural network method using TensorFlow/Keras
+'sklearn_foundation.ipynb': Logistic Regression fundamentals using scikit
+
+Made in Jupyter!
